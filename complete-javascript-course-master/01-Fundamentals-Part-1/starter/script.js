@@ -310,4 +310,4 @@ age >= 18 ? console.log("You have 18") : console.log("You don't have 18");
 
 
 //Agregando una variable nueva
-let x = 10;
+//let x = 10;
